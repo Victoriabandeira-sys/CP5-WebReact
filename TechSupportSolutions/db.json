@@ -1,0 +1,20 @@
+{
+  "tickets": [
+    {
+      "id": 2,
+      "title": "Erro no sistema",
+      "description": "O sistema apresenta erro ao iniciar.",
+      "category": "SOFTWARE",
+      "priority": "MEDIA",
+      "status": "EM_ANDAMENTO"
+    },
+    {
+      "title": "titulo",
+      "category": "SOFTWARE",
+      "priority": "MEDIA",
+      "description": "titulo 2",
+      "status": "ABERTO",
+      "id": 3
+    }
+  ]
+}
